@@ -1,0 +1,83 @@
+/* Log.css */
+/* Add your custom styles here */
+.text-black {
+  color: black;
+}
+
+.m-5 {
+  margin: 5px;
+}
+
+.order-2 {
+  order: 2;
+}
+
+.order-lg-1 {
+  order: 1;
+}
+
+.order-1 {
+  order: 1;
+}
+
+.order-lg-2 {
+  order: 2;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.h1 {
+  font-size: 5.5rem;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.mx-1 {
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.mx-md-4 {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.mt-4 {
+  margin-top: 4px;
+}
+
+.mb-4 {
+  margin-bottom: 4px;
+}
+
+.me-3 {
+  margin-right: 3px;
+}
+
+.mb-5 {
+  margin-bottom: 5px;
+}
+
+.mb-4 {
+  margin-bottom: 4px;
+}
+
+.error {
+  color: red;
+}
+
+.sticky {
+  position: sticky;
+}
+
